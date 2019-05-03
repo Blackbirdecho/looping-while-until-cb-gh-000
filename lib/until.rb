@@ -5,6 +5,5 @@ def using_until
     puts "You awesome"
       levitation_force += 1
   end
-    
-end
 
+end
